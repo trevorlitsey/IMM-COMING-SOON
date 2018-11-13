@@ -20,8 +20,10 @@
 	"homepage": "https://github.com/STAH0193/imm#readme",
 	"devDependencies": {
 		"eslint": "^5.1.0",
+		"prettier": "^1.13.7",
 		"parcel-bundler": "^1.9.4",
-		"prettier": "^1.13.7"
+		"autoprefixer": "^9.3.1",
+		"postcss-modules": "^1.4.1"
 	},
 	"eslintConfig": {
 		"env": {
@@ -40,9 +42,5 @@
 	"eslintIgnore": [
 		".next/*",
 		"node_modules/"
-	],
-	"dependencies": {
-		"autoprefixer": "^9.3.1",
-		"postcss-modules": "^1.4.1"
-	}
+	]
 }
