@@ -97,7 +97,7 @@ span.footer--imm {
 .footer-scroll small {
 	font-size: 20px;
 }
- 
+
 .blue {
 	text-shadow: 1px 1px rgb(0, 255, 242);
 }
@@ -142,7 +142,7 @@ span.footer--imm {
 	}
 }
 
-.IMM:hover {
+.imm:hover {
 	unicode-bidi: bidi-override;
 	direction: rtl;
 }
