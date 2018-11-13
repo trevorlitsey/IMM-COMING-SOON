@@ -2,7 +2,7 @@ body {
 	font-family: 'Dosis', sans-serif;
 	overflow-x: hidden;
 	margin: 0;
-	background-image: url(images/YellowBackground.png);
+	background-image: url(images/yellow-background-small.png);
 	background-repeat: repeat;
 	background-size: 20px;
 }
@@ -97,10 +97,7 @@ span.footer--imm {
 .footer-scroll small {
 	font-size: 20px;
 }
-
-#arrow {
-}
-
+ 
 .blue {
 	text-shadow: 1px 1px rgb(0, 255, 242);
 }
