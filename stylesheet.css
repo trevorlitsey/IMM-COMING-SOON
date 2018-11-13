@@ -53,6 +53,11 @@ body {
 }
 
 footer {
+	height: 80px;
+	display: flex;
+	align-items: flex-end;
+	justify-content: center;
+	overflow-x: hidden;
 	position: relative;
 	text-align: center;
 }
@@ -70,7 +75,7 @@ span.footer--imm {
 .footer-scroll {
 	/* Starting position */
 	position: absolute;
-	bottom: 35px;
+	bottom: 45px;
 	left: -1000px;
 	/* Apply animation to this element */
 	animation: scroll-right 10s linear infinite;
@@ -102,6 +107,7 @@ span.footer--imm {
 
 .logo {
 	width: calc(30vw + 20vh);
+	min-width: 250px;
 	max-width: 450px;
 	display: block;
 	margin: auto;
