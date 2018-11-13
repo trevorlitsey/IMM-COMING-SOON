@@ -54,15 +54,12 @@ body {
 
 footer {
 	position: relative;
-	margin-top: -30px;
 	text-align: center;
 }
 
 span.footer--imm {
-	padding: 30px;
 	background: url('images/footer2.png') center no-repeat;
 	background-size: contain;
-	margin: -30px;
 	text-align: center;
 	text-shadow: 2px 2px 5px rgb(183, 0, 255);
 	color: black;
