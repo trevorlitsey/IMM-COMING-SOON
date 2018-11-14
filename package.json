@@ -19,11 +19,12 @@
 	},
 	"homepage": "https://github.com/STAH0193/imm#readme",
 	"devDependencies": {
-		"eslint": "^5.1.0",
-		"prettier": "^1.13.7",
-		"parcel-bundler": "^1.9.4",
 		"autoprefixer": "^9.3.1",
-		"postcss-modules": "^1.4.1"
+		"eslint": "^5.1.0",
+		"parcel-bundler": "^1.9.4",
+		"parcel-plugin-imagemin": "^2.1.1",
+		"postcss-modules": "^1.4.1",
+		"prettier": "^1.13.7"
 	},
 	"eslintConfig": {
 		"env": {
